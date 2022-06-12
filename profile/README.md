@@ -13,5 +13,5 @@
 
 
 🙋‍♀️ We are a team of developers, FyTeq is a community/organisation of developers, where we as team work on open-source projects together
-🌈 Our Contribution guidelines, include that a team meamber should comeup with a project we as a whole, we then look into it and try to build it together. <br />
+🚀 Our Contribution guidelines, include that a team meamber should comeup with a project we as a whole, we then look into it and try to build it together. <br />
 👩‍💻 Documentaion will be found for every project including some updates to code using <b />GitHub Tags
