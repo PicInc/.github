@@ -28,7 +28,7 @@ Here are some of our Tech Stacks
 - [Nodejs](https://nodejs.org/en/)
 - [Firebase](https://firebase.google.com/)
 - [Supabase](https://supabase.com/)
-- [Git](https://git.com/)
+- [Git](https://git-scm.com/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://mongodb.com)
 - [jQuery](https://jquery.com/)
