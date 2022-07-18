@@ -12,13 +12,13 @@ My name is Treasure Alekhojie I'm a 17yrs old Full Stack Web Developer and an Ap
 
 ### Key Conepts in creating a project/starting a tech company
 
-> Learn to Code
-> Build Projects
-> Practice Daily
-> Start with app clones
-> Make your clones better, and features that app doesn't have
-> Start from small, grow it with the knowledge you have now
-> Clone other tech company and make it better, and remember make it your own don't copy add features, services that company doesn't have.
+> - Learn to Code
+> - Build Projects
+> - Practice Daily
+> - Start with app clones
+> - Make your clones better, and features that app doesn't have
+> - Start from small, grow it with the knowledge you have now
+> - Clone other tech company and make it better, and remember make it your own don't copy add features, services that company doesn't have.
 
 ## Tech
 
