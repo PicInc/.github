@@ -1,5 +1,5 @@
 # AppJoli
-## Tech Deliverd, teaching problem solving & engaging industry
+## Tech Deliverd, teaching, problem solving & engaging industry
 
 [![N|Solid](https://dabuttonfactory.com/button.png?t=Connect&f=Open+Sans-Bold&ts=19&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798)](https://github.com/AppJoli)
 
